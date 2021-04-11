@@ -36,6 +36,30 @@ namespace Business.Constants
         public static string ImageDeleted = "Araç resmi silindi..";
 
         public static string CarDetailList = "Listelendi";
+        public static string cretidCarAdded = "Kredi Kartınız Eklenmiştir";
+        public static string cretidCarDeleted = "Kredi Kartınız Silinnmiştir";
+
+        public static string FindeksAdded = "Findeks Puanınız Eklenmiştir";
+        public static string FindeksDeleted = "Findeks Puanınız Silinnmiştir";
+        public static string FindeksNotFound = "Findeks Puanınız Bulunamamıştır";
+        public static string FindeksUpdated = "Findeks Puanınız Güncellenmiştir";
+
+
+        public static string PaymentFailed = "Ödeme Başarısız!";
+        public static string PaymentSuccessful = "Ödeme Gerçekleştildi";
+
+        public static string OperationClaimAdded = "Ekleme işlemi Başarılı";
+        public static string OperationClaimDeleted = "Silme işlemi Başarılı";
+        public static string OperationClaimUpdated = "Güncelleme işlemi Başarılı";
+
+        public static string UserOperationClaimAdded = "Güncelleme işlemi Başarılı";
+        public static string UserOperationClaimDeleted = "Silme işlemi Başarılı";
+        public static string UserOperationClaimUpdated = "Güncelleme işlemi Başarılı";
+
+
+
+
+
     }
 
 }
